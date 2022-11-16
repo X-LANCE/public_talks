@@ -4,6 +4,6 @@
 
 | 标题 | 讲者 | 录像回放 |
 |---|---|---|
-|[ESPnet-SE toolkit: Introduction](https://github.com/X-LANCE/public_talks/blob/main/SpeechHome-CST-2022/ESPnet-SE.pdf)|钱彦旻、李晨达、张王优||
+|[ESPnet-SE toolkit: Introduction](https://github.com/X-LANCE/public_talks/blob/main/SpeechHome-CST-2022/ESPnet-SE.pdf)|钱彦旻、李晨达、张王优|https://mp.weixin.qq.com/s/qY7SojikFmeeTF0Xxru0GA|
 
 ![](https://api.speechhome.com/Resources/Image/2022-11-10/1590539301744152576.png)
